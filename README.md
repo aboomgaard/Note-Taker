@@ -1,4 +1,4 @@
-# Note Taker;
+# Note Taker
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
@@ -30,6 +30,13 @@
   None
 
   # Contact
+    If you have any questions feel free to directly contact me here:
+   
+   GitHub:
+   aboomgaard
+
+   Email:
+   amaliaboomgaard@gmail.com
  
 
   
